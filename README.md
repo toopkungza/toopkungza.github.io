@@ -1,3 +1,8 @@
+ToopKungZa: Content edited and personalized. >> 2023/03/01 >> First publish
+
+-----------------------------------------------------------------------------------------------
+Notes from original designer:
+
 Hyperspace by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -34,4 +39,5 @@ Credits:
 
 ---------------------------------------------------------------------------------------------
 
-ToopKungZa: Content edited and personalized. >> 2023/03/01 >> First publish
+
+
